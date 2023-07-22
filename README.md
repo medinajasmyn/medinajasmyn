@@ -7,7 +7,7 @@
 
 - 🌱 Certified: **Java Automation Testing - TestPro Bootcamp**
 
-- 💪 Skilled in development of QA documentation: **test plans, test suites, test cases, checklists and bug reports**
+- 💪 Skilled in development of QA documentation: **test plans, test suites, test cases, check lists and bug reports**
 
 - 📫 How to reach me **jasmynmedina1@gmail.com**
 
